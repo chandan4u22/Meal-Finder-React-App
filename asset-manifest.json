@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meal-Finder-React-App/static/css/main.3b6e795c.css",
+    "main.js": "/Meal-Finder-React-App/static/js/main.f2c7a54f.js",
+    "static/js/787.c4e22ece.chunk.js": "/Meal-Finder-React-App/static/js/787.c4e22ece.chunk.js",
+    "index.html": "/Meal-Finder-React-App/index.html",
+    "main.3b6e795c.css.map": "/Meal-Finder-React-App/static/css/main.3b6e795c.css.map",
+    "main.f2c7a54f.js.map": "/Meal-Finder-React-App/static/js/main.f2c7a54f.js.map",
+    "787.c4e22ece.chunk.js.map": "/Meal-Finder-React-App/static/js/787.c4e22ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6e795c.css",
+    "static/js/main.f2c7a54f.js"
+  ]
+}
