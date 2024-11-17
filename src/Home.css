@@ -1,5 +1,7 @@
 body {
-  background-color: #24171e;
+  background-image: url("Components/image/bg_image1.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
 }
 
